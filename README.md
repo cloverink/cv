@@ -1,16 +1,5 @@
-# HTML & Less Lite template
-====================================
+### My CV
 
-## Let's Start
+`Aran Chananar`  
+UX Developer
 
-    $ git clone https://github.com/cloverink/gulp-and-less-starter-kit.git xxxx
-    $ cd xxxx
-    $ yarn
-    
-Then
-
-    $ gulp
-    
-Or 
-
-    $ gulp server
